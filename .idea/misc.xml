@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/add_favorite.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/button_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/error_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/ic_baseline_plus_one_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/ic_round_logout_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/icon_add_to_favorite.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/icon_empty_list.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/icon_film_error.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/icon_share.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/icon_thumb_up.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/image_shape.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/img_error.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/recycler_view_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/recycler_view_item_shape.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/share.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/drawable/sroll_bar_color.xml" value="0.3828125" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout-v31/item_film.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/activity_auth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/fragment_films_all.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/fragment_films_favorite.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/include_empty_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/include_header_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/item_error.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/item_film.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/item_film_original.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/item_loading.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/layout/item_networking.xml" value="0.3277777777777778" />
+        <entry key="..\:/Users/AdminDev/Desktop/Tmdbt/app/src/main/res/menu/main_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/ic_empty_list.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/ic_film_error.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/ic_logout.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/ic_round_logout_24.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/img_error.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/drawable/sroll_bar_color.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/activity_auth.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/fragment_films_all.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/fragment_films_favorite.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/include_empty_list.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/include_header_layout.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/item_film.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/item_film_original.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/item_loading.xml" value="0.259375" />
+        <entry key="..\:/Users/Did/Desktop/new/app/src/main/res/layout/item_networking.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

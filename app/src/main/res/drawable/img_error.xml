@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <solid android:color="?colorOnSurface" />
+        </shape>
+
+    </item>
+
+    <item
+        android:width="128dp"
+        android:height="128dp"
+        android:drawable="@drawable/ic_film_error"
+        android:gravity="center"></item>
+</layer-list>
